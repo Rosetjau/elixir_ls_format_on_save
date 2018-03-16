@@ -1,5 +1,5 @@
 [
-  # import_deps: [:absinthe],
+  import_deps: [:absinthe],
   inputs: [
     "*.exs",
     "config/*.exs",
